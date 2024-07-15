@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:REQUEST
+PRODID:-//Charles Oduk//Tech Events//EN
+BEGIN:VEVENT
+DTSTART;TID=Asia/Kolkata:20240528T150050
+DTEND;TID=Asia/Kolkata:20240528T235957
+DTSTAMP:20240528T150050
+SUMMARY:HackOn with Amazon
+SEQUENCE:0
+ORGANIZER;CN=Amazon:mailto:support@unstop.com
+UID:un66548c2bd540e1716816939noreply@unstop.com
+URL:https://unstop.com/p/hackon-with-amazon-season-4-amazon-959046
+STATUS:CONFIRMED
+DESCRIPTION:HackOn with Amazon
+LAST-MODIFIED:20240528T150050
+LOCATION:https://unstop.com/p/hackon-with-amazon-season-4-amazon-959046
+END:VEVENT
+END:VCALENDAR
