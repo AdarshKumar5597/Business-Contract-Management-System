@@ -47,15 +47,15 @@ So, we created an application which is designed for contract analysis and Named 
 
 ![Front](https://i.ibb.co/WVp5Cww/Screenshot-2024-07-15-195855.png)
 
-![Features](https://i.postimg.cc/sD1NJ7vV/Screenshot-2024-07-15-195913.png)
+![Features1](https://i.postimg.cc/sD1NJ7vV/Screenshot-2024-07-15-195913.png)
 
-![Features](https://i.postimg.cc/FsqnCzL0/Screenshot-2024-07-15-195938.png)
+![Features3](https://i.postimg.cc/FsqnCzL0/Screenshot-2024-07-15-195938.png)
 
-![Features](https://i.postimg.cc/ZqP7qLDL/Screenshot-2024-07-15-195959.png)
+![Features2](https://i.postimg.cc/ZqP7qLDL/Screenshot-2024-07-15-195959.png)
 
-![Process](https://i.postimg.cc/vTT33w8P/Screenshot-2024-07-15-200016.png)
+![Process2](https://i.postimg.cc/vTT33w8P/Screenshot-2024-07-15-200016.png)
 
-![Process](https://i.postimg.cc/prSkScpP/Screenshot-2024-07-15-200029.png)
+![Process3](https://i.postimg.cc/prSkScpP/Screenshot-2024-07-15-200029.png)
 
 ![Process1](https://i.postimg.cc/ZYsf0njX/Screenshot-2024-07-15-200041.png)
 
